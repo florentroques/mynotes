@@ -7,4 +7,5 @@ example:
 ![example build matrix](https://saucelabs.com/browser-matrix/js-cookie.svg "example build matrix saucelabs.com")
 
 ##Platform for translation
-https://crowdin.com
+https://crowdin.com  
+[ublock origin example](https://crowdin.com/project/ublock)
