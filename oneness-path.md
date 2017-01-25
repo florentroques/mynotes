@@ -17,3 +17,7 @@ http://www.c-possible.org/
 
 ##Institut de Psychologie Humaniste et Transpersonnelle
 http://www.nouvelle-psychologie.com/  
+
+
+##Communauté bouddhiste Paris
+http://www.lamontagnesanssommet.com/  
