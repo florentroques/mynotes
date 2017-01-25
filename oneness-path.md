@@ -31,20 +31,31 @@ https://alynarouelle.wixsite.com/lumieredevie
 http://suprememastertv.com/  
 http://amouretlumiere.eternite.com/  
 http://www.reiki-meditation-vendee.com/  
+https://www.youtube.com/user/eveilspirituel1  
+https://www.youtube.com/user/thierry66pasteque  
+http://francescaduforum.blogspot.fr/  
+
 
 ##Ecoles
 http://www.rebouteux.org/rebouteux.org/index.html  
+https://ecole-du-vivant.com/  
+
 
 ##Prana
 Yv http://pranique.com  
-Henri MONFORT http://nourriture.pranique.free.fr/  
+Henri MONFORT http://nourriture.pranique.free.fr/  possibilité accompagnement par skype 21 jours
 https://www.facebook.com/Nourriture-PraniquePrana-295596537240741/  
 http://www.prana21.altervista.org/fr/  
 https://michaelgallaschblog.com/  
 http://www.santeglobale.info/me-nourris-de-prana-alyna-rouelle/  
 |> https://allevents.in/events/conf%C3%A9rence-%C3%A0-paris-avec-nicolas-pilartz-nourriture-pranique/740858022744319
+https://interetpourtous.com/2017/01/07/les-4-processus-de-regeneration-cellulaire/  
+http://www.breatharianworld.com/en/  
+http://www.laurene-baldassara.com/vivre-de-lumiere.html  
+
 ##Témoignage
 http://maraisondetre.fr/temoignage-marlene-processus-pranique  
+
 
 ##Stages prana
 http://www.pranainspire.com/  
