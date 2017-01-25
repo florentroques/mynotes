@@ -26,10 +26,25 @@ http://www.lamontagnesanssommet.com/
 http://ducielalaterre.org/accueil.php  
 http://etredelumiere.ordi-netfr.com/messages.php  
 http://www.eveil-personnel-coaching.fr/ - https://www.youtube.com/user/commentchangerdevie/
+http://lapressegalactique.com/  
+https://alynarouelle.wixsite.com/lumieredevie  
+http://suprememastertv.com/  
+http://amouretlumiere.eternite.com/  
+http://www.reiki-meditation-vendee.com/  
+
+##Ecoles
+http://www.rebouteux.org/rebouteux.org/index.html  
 
 ##Prana
-http://pranique.com  
-
+Yv http://pranique.com  
+Henri MONFORT http://nourriture.pranique.free.fr/  
+https://www.facebook.com/Nourriture-PraniquePrana-295596537240741/  
+http://www.prana21.altervista.org/fr/  
+https://michaelgallaschblog.com/  
+http://www.santeglobale.info/me-nourris-de-prana-alyna-rouelle/  
+|> https://allevents.in/events/conf%C3%A9rence-%C3%A0-paris-avec-nicolas-pilartz-nourriture-pranique/740858022744319
+##Témoignage
+http://maraisondetre.fr/temoignage-marlene-processus-pranique  
 
 ##Stages prana
 http://www.pranainspire.com/  
