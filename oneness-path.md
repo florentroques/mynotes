@@ -53,6 +53,9 @@ https://interetpourtous.com/2017/01/07/les-4-processus-de-regeneration-cellulair
 http://www.breatharianworld.com/en/  
 http://www.laurene-baldassara.com/vivre-de-lumiere.html  
 
+##Article Anti Prana
+http://silicium.blogspirit.com/archive/2013/10/23/nourriture-pranique-piege-a-cons-ou-nouveau-myticisme-popula.html
+
 ##Témoignage
 http://maraisondetre.fr/temoignage-marlene-processus-pranique  
 
@@ -61,4 +64,7 @@ http://maraisondetre.fr/temoignage-marlene-processus-pranique
 http://www.pranainspire.com/  
 https://www.jevoyageleger.com/  
 
+[Eaux minérales et sels minéraux morts](http://www.naturosante.com/rubriques/conseils/conseil.php?91)
+
+[prière de Don Miguel Ruiz](http://www.danielleclermont.com/don_miguel_ruiz.htm)
 
