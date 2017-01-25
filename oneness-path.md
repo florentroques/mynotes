@@ -21,3 +21,7 @@ http://www.nouvelle-psychologie.com/
 
 ##Communauté bouddhiste Paris
 http://www.lamontagnesanssommet.com/  
+
+http://ducielalaterre.org/accueil.php  
+http://etredelumiere.ordi-netfr.com/messages.php  
+http://pranique.com  
