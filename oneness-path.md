@@ -52,6 +52,8 @@ http://www.santeglobale.info/me-nourris-de-prana-alyna-rouelle/
 https://interetpourtous.com/2017/01/07/les-4-processus-de-regeneration-cellulaire/  
 http://www.breatharianworld.com/en/  
 http://www.laurene-baldassara.com/vivre-de-lumiere.html  
+http://delalumiere.free.fr/festivalpranique.html  
+https://www.psiram.com/fr/index.php/Respirianisme
 
 ##Article Anti Prana
 http://silicium.blogspirit.com/archive/2013/10/23/nourriture-pranique-piege-a-cons-ou-nouveau-myticisme-popula.html
@@ -67,4 +69,5 @@ https://www.jevoyageleger.com/
 [Eaux minérales et sels minéraux morts](http://www.naturosante.com/rubriques/conseils/conseil.php?91)
 
 [prière de Don Miguel Ruiz](http://www.danielleclermont.com/don_miguel_ruiz.htm)
+
 
