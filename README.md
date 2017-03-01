@@ -9,3 +9,6 @@ example:
 ##Platform for translation
 https://crowdin.com  
 [ublock origin example](https://crowdin.com/project/ublock)
+
+###For profiling tips
+https://www.paulirish.com/
