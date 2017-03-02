@@ -14,5 +14,5 @@ https://crowdin.com
 https://www.paulirish.com/
 
 ###Deploy react native mobile apps
-https://apphub.io/
+https://apphub.io/  
 http://microsoft.github.io/code-push/
