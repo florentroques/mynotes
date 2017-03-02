@@ -16,3 +16,6 @@ https://www.paulirish.com/
 ###Deploy react native mobile apps
 https://apphub.io/  
 http://microsoft.github.io/code-push/
+
+https://www.youtube.com/watch?v=pVNagJzzaFg  
+"You're writing the wrong thing if you're writing the implementation first" Eric Elliott  
