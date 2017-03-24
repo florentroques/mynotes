@@ -55,7 +55,10 @@ remote work culture really important  **
 Kraken JS: Paypal Open Source  
 http://krakenjs.com/  
 
-
-Websites to choose software
+Websites to choose software  
 http://alternativeto.net  
 https://www.g2crowd.com/
+
+Platform to be crowd financed when we are a creator (monthly salary)
+https://www.tipeee.com/  
+https://www.patreon.com/  
