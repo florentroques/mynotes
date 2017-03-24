@@ -56,3 +56,6 @@ Kraken JS: Paypal Open Source
 http://krakenjs.com/  
 
 
+Websites to choose software
+http://alternativeto.net  
+https://www.g2crowd.com/
