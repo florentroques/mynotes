@@ -63,6 +63,22 @@ Platform to be crowd financed when we are a creator (monthly salary)
 https://www.tipeee.com/  
 https://www.patreon.com/
 
+**Assets naming**  
+Google recommendation: youtu.be/AQcSFsQyct8  
+- Latin characters only  
+- no spaces  
+- lowercase only  
+- @2x or @3x postfix to prepare images for devices with different pixel densities  
+- use same rules for folder names  
+ex: customer-service@2x.png  
+
+**Picture format guide**  
+NB: check out Google image optimization guide  
+- .jpg for pictures without transparency, when quality can be sacrifice in favor of size  
+- .png for best quality and transparency  
+- .gif or video formats for animations (keep in mind GIFs are a very old format, video file will be higher in quality but smaller in size)  
+
+
 **Compress/Optimize images**  
 Tools:  
 - Kraken  
@@ -74,4 +90,7 @@ Acceptable compression level for non-static pictures:
 - 1920x600: < 180KB  
 - 600x400: < 60KB
 - 300x200: < 30KB  
+
+
+
 
