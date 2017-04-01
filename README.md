@@ -61,4 +61,17 @@ https://www.g2crowd.com/
 
 Platform to be crowd financed when we are a creator (monthly salary)
 https://www.tipeee.com/  
-https://www.patreon.com/  
+https://www.patreon.com/
+
+**Compress/Optimize images**  
+Tools:  
+- Kraken  
+- ImageOptim  
+- Optimage  
+- SVGOMG (optimize SVG)  
+
+Acceptable compression level for non-static pictures:  
+- 1920x600: < 180KB  
+- 600x400: < 60KB
+- 300x200: < 30KB  
+
