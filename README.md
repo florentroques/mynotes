@@ -91,6 +91,33 @@ Acceptable compression level for non-static pictures:
 - 600x400: < 60KB
 - 300x200: < 30KB  
 
+**Responsive web design breakpoints**  
+- 320x568  
+- 375x667  
+- 768x1024  
+- 1024x768  
+- 1280x768  
+- 1366x768  
+- 1920x1080  
+
+**Tools for prototyping user journeys**  
+- InVision  
+- Axure  
+
+**Tools for animations**  
+- Principle  
+- Framer  
+- Adobe After Effects  
+
+**Tools to create UI library**
+- Craft  
+
+**Tools to export from Sketch or PSD**
+- Invision Inspect  
+- Zeplin  
+- Sympli  
+- Sketch Measure  
+
 
 
 
