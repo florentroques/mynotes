@@ -118,6 +118,7 @@ Acceptable compression level for non-static pictures:
 - Sympli  
 - Sketch Measure  
 
-
+## Node version manager
+n is easier to use than nvm
 
 
