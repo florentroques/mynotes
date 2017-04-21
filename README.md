@@ -121,4 +121,5 @@ Acceptable compression level for non-static pictures:
 ## Node version manager
 n is easier to use than nvm
 
-
+## SEO
+add schema.org specifications
