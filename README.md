@@ -123,3 +123,4 @@ n is easier to use than nvm
 
 ## SEO
 add schema.org specifications
+add open graph protocol ogp.me specs
