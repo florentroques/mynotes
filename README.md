@@ -122,5 +122,14 @@ Acceptable compression level for non-static pictures:
 n is easier to use than nvm
 
 ## SEO
-add schema.org specifications
+add schema.org specifications  
 add open graph protocol ogp.me specs
+
+## DevOps
+Infrastructure as code: Terraform + Ansible  
+Platform to micro-services infrastructure : Kubernetes  
+CI/ CD : Jenkins | drone | sonarqube | travisCI | circleCI  
+Docker  
+AWS
+
+
