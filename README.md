@@ -64,13 +64,13 @@ https://www.tipeee.com/
 https://www.patreon.com/
 
 **Assets naming**  
-Google recommendation: youtu.be/AQcSFsQyct8  
+Google recommendation: https://youtu.be/AQcSFsQyct8  
 - Latin characters only  
 - no spaces  
 - lowercase only  
 - @2x or @3x postfix to prepare images for devices with different pixel densities  
 - use same rules for folder names  
-ex: customer-service@2x.png  
+ex: ```customer-service@2x.png```
 
 **Picture format guide**  
 NB: check out Google image optimization guide  
