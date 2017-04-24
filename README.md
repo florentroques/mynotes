@@ -59,7 +59,7 @@ Websites to choose software
 http://alternativeto.net  
 https://www.g2crowd.com/
 
-Platform to be crowd financed when we are a creator (monthly salary)
+Platform to be crowd financed as a service/content/product creator (monthly salary)  
 https://www.tipeee.com/  
 https://www.patreon.com/
 
