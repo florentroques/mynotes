@@ -86,6 +86,9 @@ Tools:
 - Optimage  
 - SVGOMG (optimize SVG)  
 
+## SVG
+On https://www.vectorizer.io, put blur to the maximum possible to reduce file size  
+
 Acceptable compression level for non-static pictures:  
 - 1920x600: < 180KB  
 - 600x400: < 60KB
