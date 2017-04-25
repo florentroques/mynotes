@@ -65,6 +65,7 @@ https://www.patreon.com/
 
 **Assets naming**  
 ref: https://medium.com/pixelpoint/handoffs-guide-for-pixel-perfect-design-part-i-8bbd95d8ffcd  
+NB: https://pixelpoint.io is a good website for website speed example
 - Latin characters only  
 - no spaces  
 - lowercase only  
@@ -138,3 +139,5 @@ Boostrap CSS has a much bigger community compared to Foundation
 Setup CSS cache invalidation system
 Setup CSS unused rules cleaning system
 
+## Analytics
+Consider Yandex Metrica (provides other insights that GA doesn't provide -> heat maps i.e.)  
