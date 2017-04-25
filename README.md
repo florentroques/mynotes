@@ -64,7 +64,7 @@ https://www.tipeee.com/
 https://www.patreon.com/
 
 **Assets naming**  
-Google recommendation: https://youtu.be/AQcSFsQyct8  
+ref: https://medium.com/pixelpoint/handoffs-guide-for-pixel-perfect-design-part-i-8bbd95d8ffcd  
 - Latin characters only  
 - no spaces  
 - lowercase only  
@@ -77,8 +77,6 @@ NB: check out Google image optimization guide
 - .jpg for pictures without transparency, when quality can be sacrifice in favor of size  
 - .png for best quality and transparency  
 - .gif or video formats for animations (keep in mind GIFs are a very old format, video file will be higher in quality but smaller in size)  
-
-
 **Compress/Optimize images**  
 Tools:  
 - Kraken  
@@ -86,7 +84,7 @@ Tools:
 - Optimage  
 - SVGOMG (optimize SVG)  
 
-## SVG
+**SVG**
 On https://www.vectorizer.io, put blur to the maximum possible to reduce file size  
 
 Acceptable compression level for non-static pictures:  
@@ -137,4 +135,6 @@ AWS
 
 ## CSS Frameworks
 Boostrap CSS has a much bigger community compared to Foundation
+Setup CSS cache invalidation system
+Setup CSS unused rules cleaning system
 
