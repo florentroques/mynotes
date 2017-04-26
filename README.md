@@ -141,3 +141,7 @@ Setup CSS unused rules cleaning system
 
 ## Analytics
 Consider Yandex Metrica (provides other insights that GA doesn't provide -> heat maps = visual representation of which areas in your site is popular)  
+
+## UX
+Create Personas  
+http://personapp.io/  
