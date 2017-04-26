@@ -145,3 +145,6 @@ Consider Yandex Metrica (provides other insights that GA doesn't provide -> heat
 ## UX
 Create Personas  
 http://personapp.io/  
+
+## Apps for startup
+http://startupstash.com/
