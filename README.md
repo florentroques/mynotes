@@ -149,3 +149,6 @@ try https://www.figma.com/
 ## Apps for startup
 http://startupstash.com/  
 https://www.getharvest.com/ (time-tracking, report, expenses, project etc)
+
+#React Native
+run rndebugger-open to Replace `open debugger-ui with Chrome` to `open React Native Debugger`.
