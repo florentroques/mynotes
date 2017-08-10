@@ -161,4 +161,5 @@ Google Play: font Geneva for the text "GET IT ON"
 If issue with error 500 caused by permalinks -> remove .htaccess
 
 ## Facebook Video embed
-for mobile videos embed, if issue try with m.facebook instead of www.facebook
+for mobile videos embed, if issue go to the video url with m.facebook instead of www.facebook
+and then find copy the video tag
