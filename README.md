@@ -150,12 +150,12 @@ try https://www.figma.com/
 http://startupstash.com/  
 https://www.getharvest.com/ (time-tracking, report, expenses, project etc)
 
-#React Native
+## React Native
 run rndebugger-open to Replace `open debugger-ui with Chrome` to `open React Native Debugger`.
 
-#Download on App Store & Google Play badges
+## Download on App Store & Google Play badges
 App Store: font Myriad Pro for the text "download on the"  
 Google Play: font Geneva for the text "GET IT ON"
 
-#Free.fr
+## Free.fr  
 If issue with error 500 caused by permalinks -> remove .htaccess
