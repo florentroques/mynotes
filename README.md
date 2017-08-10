@@ -156,3 +156,6 @@ run rndebugger-open to Replace `open debugger-ui with Chrome` to `open React Nat
 #Download on App Store & Google Play badges
 App Store: font Myriad Pro for the text "download on the"  
 Google Play: font Geneva for the text "GET IT ON"
+
+#Free.fr
+If issue with error 500 caused by permalinks -> remove .htaccess
