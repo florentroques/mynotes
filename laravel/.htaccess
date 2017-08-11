@@ -36,6 +36,8 @@ DirectoryIndex index.html index.php /index.php
     RewriteCond %{HTTP:Authorization} .
     RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 
+    #following rules solved error 500 issue when loading non home route
+    #ref https://laracasts.com/discuss/channels/servers/urls-only-work-when-indexphp-is-used/replies/84208
     RewriteCond %{REQUEST_URI}::$1 ^(/.+)/(.*)::\2$
     RewriteRule ^(.*) - [E=BASE:%1]
 
