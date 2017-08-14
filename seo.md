@@ -48,3 +48,6 @@ Something like this:
 <meta name="twitter:title" content="@yield('title', config('app.name'))"/>
 <meta name="twitter:description" content="@yield('description', config('app.description'))"/>
 <meta name="twitter:image" content="{{ request()->root() }}/images/TODO.png"/>
+
+
+source: https://laracasts.com/discuss/channels/general-discussion/seo-and-laravel/replies/342116
