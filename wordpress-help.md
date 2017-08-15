@@ -12,3 +12,10 @@ wp duplicator https://wordpress.org/plugins/duplicator/
 
 ## Upgrade a theme manually
 - make sure to add the version number to the new theme folder so that it doesn't conflict with the previous one
+
+## Plugins
+- Yoast SEO  
+- Divi theme + builder  
+- WP Rocket for caching  
+- Font organizer for custom fonts: but some precedence rules issue (see above)  
+- 
