@@ -19,3 +19,10 @@ wp duplicator https://wordpress.org/plugins/duplicator/
 - WP Rocket for caching  
 - Font organizer for custom fonts: but some precedence rules issue (see above)  
 - 
+
+## Remove Divi shortcodes
+```php
+function remove_divi_shortcodes( $content ) {
+    $content = preg_replace('/\[\/?et_pb.*?\]/', '', $content);
+    return $content;
+}
