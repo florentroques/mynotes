@@ -1,28 +1,28 @@
-##Ludocoaching
+## Ludocoaching
 http://www.ludocoaching.com/  
 http://www.lagenceludicitaire.fr/  
 http://www.marckucharz.com/  
 http://lejeudelentraide.over-blog.com/  
 
 
-##Institut de Recherche sur les Expériences Extraordinaires
+## Institut de Recherche sur les Expériences Extraordinaires
 http://www.inrees.com  
 https://www.youtube.com/user/inrees/  
 
-##Maisons d'édition
+## Maisons d'édition
 http://www.fernand-lanore.com/  
 http://www.editions-tredaniel.com/  
 
 http://www.c-possible.org/
 
-##Institut de Psychologie Humaniste et Transpersonnelle
+## Institut de Psychologie Humaniste et Transpersonnelle
 http://www.nouvelle-psychologie.com/  
 
 
-##Communauté bouddhiste Paris
+## Communauté bouddhiste Paris
 http://www.lamontagnesanssommet.com/  
 
-##Spiritualité
+## Spiritualité
 http://ducielalaterre.org/accueil.php  
 http://etredelumiere.ordi-netfr.com/messages.php  
 http://www.eveil-personnel-coaching.fr/ - https://www.youtube.com/user/commentchangerdevie/
@@ -36,12 +36,12 @@ https://www.youtube.com/user/thierry66pasteque
 http://francescaduforum.blogspot.fr/  
 
 
-##Ecoles
+## Ecoles
 http://www.rebouteux.org/rebouteux.org/index.html  
 https://ecole-du-vivant.com/  
 
 
-##Prana
+## Prana
 Yv http://pranique.com  
 Henri MONFORT http://nourriture.pranique.free.fr/  possibilité accompagnement par skype 21 jours
 https://www.facebook.com/Nourriture-PraniquePrana-295596537240741/  
@@ -55,14 +55,14 @@ http://www.laurene-baldassara.com/vivre-de-lumiere.html
 http://delalumiere.free.fr/festivalpranique.html  
 https://www.psiram.com/fr/index.php/Respirianisme
 
-##Article Anti Prana
+## Article Anti Prana
 http://silicium.blogspirit.com/archive/2013/10/23/nourriture-pranique-piege-a-cons-ou-nouveau-myticisme-popula.html
 
-##Témoignage
+## Témoignage
 http://maraisondetre.fr/temoignage-marlene-processus-pranique  
 
 
-##Stages prana
+## Stages prana
 http://www.pranainspire.com/  
 https://www.jevoyageleger.com/  
 
