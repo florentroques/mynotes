@@ -151,7 +151,19 @@ http://startupstash.com/
 https://www.getharvest.com/ (time-tracking, report, expenses, project etc)
 
 ## React Native
-run rndebugger-open to Replace `open debugger-ui with Chrome` to `open React Native Debugger`.
+run rndebugger-open to Replace `open debugger-ui with Chrome` to `open React Native Debugger`.  
+TouchableOpacity style: backgroundColor needed for Android -> black by default
+
+For image:  
+```
+//disable parent View justifyContent and alignItems properties
+  // to get fullscreen image
+  image: {
+    // flex: 1,
+    // width: undefined,
+    // height: undefined,
+  },
+ ```
 
 ## Download on App Store & Google Play badges
 App Store: font Myriad Pro for the text "download on the"  
