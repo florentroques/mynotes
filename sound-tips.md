@@ -28,8 +28,14 @@ see http://productionadvice.co.uk/youtube-loudness/
 On Spotify songs normalized to -14LUFS  
 see http://productionadvice.co.uk/spotify-reduced-loudness/
 
-## Levelator 
+## Tools
+
+- **Levelator**  
 http://www.conversationsnetwork.org/levelator  
 leveler that corrects for medium-term variations in loudness instead of the short-term and long-term variatons processed by compressor/limiters and normalizers
+
+- **r128x**
+https://github.com/audionuma/r128x  
+loudness measurement of files on Mac OSX 
 
 
