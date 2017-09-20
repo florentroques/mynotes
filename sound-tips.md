@@ -1,6 +1,7 @@
-an mp3 file is not easily loopable... 
+an mp3 file is not easily loopable...   
+see https://www.compuphase.com/mp3/mp3loops.htm  
 
-see https://www.compuphase.com/mp3/mp3loops.htm
+.wav supports loop
 
 ## detect sound volume
 ffmpeg -i input.wav -filter:a volumedetect -f null /dev/null
