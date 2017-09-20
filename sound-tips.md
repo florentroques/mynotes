@@ -19,6 +19,11 @@ Normalize a number of MP4 files to EBU R128 normalization and merge the audio st
 `ffmpeg-normalize -vuofb *.mp4`  
 ( `ffmpeg-normalize --verbose --merge --dir --force --ebu *.mp4` )
 
+previous command but merging the audio back in using the libfdk_aac encoder with 192 kBit/s CBR  
+`ffmpeg-normalize -vuofb -a libfdk_aac -e "-b:a 192k" *.mp4`
+
+set the sample rate to a normal value (-b/--ebu: the sample rate of the input file will be changed, which some players do not support)
+`ffmpeg-normalize -vuofb -e "-ar 44100" *.mp4`
 
 
 ## sound normalization info
@@ -30,7 +35,7 @@ see http://productionadvice.co.uk/youtube-loudness/
 - Spotify: songs normalized to -14LUFS  
 see http://productionadvice.co.uk/spotify-reduced-loudness/
 
--> Normalize to -13LUFS for now
+==> Normalize to -13LUFS for now
 
 ## Tools
 
