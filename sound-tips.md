@@ -17,7 +17,7 @@ several options:
 
 Normalize a number of MP4 files to EBU R128 normalization and merge the audio stream back into the MP4 files, in a new directory called normalized:  
 `ffmpeg-normalize -vuofb *.mp4`  
-(`ffmpeg-normalize --verbose --merge --dir --force --ebu *.mp4)
+( `ffmpeg-normalize --verbose --merge --dir --force --ebu *.mp4` )
 
 
 
