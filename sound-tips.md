@@ -22,11 +22,13 @@ ffmpeg -i input.wav -filter:a loudnorm output.wav
 ## sound normalization info
 New sound unit LUFS (Loudness units relative to Full Scale) - related to EBU R128 algorithm
 
-On Youtube all videos are normalized to -13LUFS  
+- Youtube: videos normalized to -13LUFS  
 see http://productionadvice.co.uk/youtube-loudness/
 
-On Spotify songs normalized to -14LUFS  
+- Spotify: songs normalized to -14LUFS  
 see http://productionadvice.co.uk/spotify-reduced-loudness/
+
+-> Normalize to -13LUFS for now
 
 ## Tools
 
@@ -34,7 +36,7 @@ see http://productionadvice.co.uk/spotify-reduced-loudness/
 http://www.conversationsnetwork.org/levelator  
 leveler that corrects for medium-term variations in loudness instead of the short-term and long-term variatons processed by compressor/limiters and normalizers
 
-- **r128x**
+- **r128x**  
 https://github.com/audionuma/r128x  
 loudness measurement of files on Mac OSX 
 
