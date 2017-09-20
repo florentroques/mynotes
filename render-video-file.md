@@ -12,3 +12,6 @@ scaling: https://trac.ffmpeg.org/wiki/Scaling%20(resizing)%20with%20ffmpeg
 - **scaling to desired size**  
 `ffmpeg -i input.mp4 -c:v libx264 -crf 23 -vf scale=540:960  output.mp4`  
 
+`find -name "*.mp4" -exec ffmpeg -i {} -c:v libx264 -crf 23 -vf scale=540:960  ./output/{}`  
+`find -name "*.mp4" -exec bash -c 'ffmpeg -i "{}" -c:v libx264 -crf 23 -vf scale=540:960  "./output/${0/.mp4}.mp4"' {}`
+
