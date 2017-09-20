@@ -12,3 +12,12 @@ ffmpeg -i input.wav -filter:a "volume=1.5" output.wav
 
 - decibels  
 ffmpeg -i input.wav -filter:a "volume=10dB" output.wav
+
+## sound normalization
+New sound unit LUFS (Loudness units relative to Full Scale) - related to EBU R128 algorithm
+
+On Youtube all videos are normalized to -13LUFS  
+see http://productionadvice.co.uk/youtube-loudness/
+
+On Spotify songs normalized to -14LUFS  
+see http://productionadvice.co.uk/spotify-reduced-loudness/
