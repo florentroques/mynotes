@@ -16,5 +16,5 @@ map extension to same extension
 `find -name "*.mp4" -exec ffmpeg -i {} -c:v libx264 -crf 23 -vf scale=540:960  ./output/{}`  
 
 map extension to another extension  
-`find -name "*.mp4" -exec bash -c 'ffmpeg -i "{}" -c:v libx264 -crf 23 -vf scale=540:960  "./output/${0/.mp4}.avi"' {}`  
-NB: on mac OS X use gfind instead of find to access -name property from findutils (brew install findutils)
+`find -name "*.mp4" -exec bash -c 'ffmpeg -i "{}" -c:v libx264 -crf 23 -vf scale=540:960  "./output/${0/.mp4}.avi"' {} \;`  
+NB: **on mac OS X use gfind** instead of find to access -name property from findutils (brew install findutils)
