@@ -6,21 +6,17 @@ see https://www.compuphase.com/mp3/mp3loops.htm
 ## detect sound volume
 ffmpeg -i input.wav -filter:a volumedetect -f null /dev/null
 
-## change audio volume
-- ratio
-ffmpeg -i input.wav -filter:a "volume=1.5" output.wav
-
-- decibels  
-ffmpeg -i input.wav -filter:a "volume=10dB" output.wav
-
 ## normalize audio volume
 see https://superuser.com/questions/323119/how-can-i-normalize-audio-using-ffmpeg  
+ffmpeg ref: https://trac.ffmpeg.org/wiki/AudioVolume
 
 several options:  
-- ffmpeg -i input.wav -filter:a loudnorm output.wav
-- ffmpeg-normalize -b tamtam-loop16bit.wav
+- `ffmpeg -i input.wav -filter:a loudnorm output.wav`
+- `ffmpeg-normalize -b tamtam-loop16bit.wav`
 - use [Levelator tool](http://www.conversationsnetwork.org/levelator) (see below)
 
+Normalize a number of MP4 files to EBU R128 normalization and merge the audio stream back into the MP4 files, in a new directory called normalized:  
+`ffmpeg-normalize -vuofb *.mp4`
 
 
 ## sound normalization info
