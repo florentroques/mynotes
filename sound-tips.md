@@ -18,7 +18,8 @@ see more https://trac.ffmpeg.org/wiki/Encode/MP3
 
 ## normalize audio volume
 see https://superuser.com/questions/323119/how-can-i-normalize-audio-using-ffmpeg  
-ffmpeg ref: https://trac.ffmpeg.org/wiki/AudioVolume
+ffmpeg ref: https://trac.ffmpeg.org/wiki/AudioVolume  
+ffmpeg-normalize: https://github.com/slhck/ffmpeg-normalize  
 
 several options:  
 - `ffmpeg -i input.wav -filter:a loudnorm output.wav`
