@@ -3,6 +3,13 @@ see https://www.compuphase.com/mp3/mp3loops.htm
 
 .wav supports loop
 
+## convert wav to mp3
+`ffmpeg -i input.wav -codec:a libmp3lame -qscale:a 2 output.mp3`  
+
+Control quality with -qscale:a (or the alias -q:a). Values are encoder specific, so for libmp3lame the range is 0-9 where a lower value is a higher quality. 0-3 will normally produce transparent results, 4 (default) should be close to perceptual transparency, and 6 produces an "acceptable" quality. The option -qscale:a is mapped to the -V option in the standalone lame command-line interface tool.  
+
+see more https://trac.ffmpeg.org/wiki/Encode/MP3
+
 ## detect sound volume
 `ffmpeg -i input.wav -filter:a volumedetect -f null /dev/null`
 
