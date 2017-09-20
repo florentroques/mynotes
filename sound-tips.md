@@ -4,7 +4,7 @@ see https://www.compuphase.com/mp3/mp3loops.htm
 .wav supports loop
 
 ## detect sound volume
-ffmpeg -i input.wav -filter:a volumedetect -f null /dev/null
+`ffmpeg -i input.wav -filter:a volumedetect -f null /dev/null`
 
 ## normalize audio volume
 see https://superuser.com/questions/323119/how-can-i-normalize-audio-using-ffmpeg  
@@ -52,3 +52,8 @@ loudness measurement of files on Mac OSX
 for i in {1..10}; do printf "file '%s'\n" input.mp3 >> mylist.txt; done
 ffmpeg -f concat -i mylist.txt -c copy output.mp3
 ```
+
+## LUFS Meter
+https://youlean.co/youlean-loudness-meter/  
+Installed in Audacity  
+Top Menu > Effect > Scroll to bottom of bottom :)
