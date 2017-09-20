@@ -1,7 +1,10 @@
-an mp3 file is not easily loopable...   
-see https://www.compuphase.com/mp3/mp3loops.htm  
+## Loop mp3
+mp3 format is not designed for loops  
+explanation: https://www.compuphase.com/mp3/mp3loops.htm  
+python script attempt: https://github.com/tom-seddon/bin#make_looping_mp3  
+(didn't work when tried)
 
-.wav supports loop
+=> wav format supports loop
 
 ## convert wav to mp3
 `ffmpeg -i input.wav -codec:a libmp3lame -qscale:a 2 output.mp3`  
