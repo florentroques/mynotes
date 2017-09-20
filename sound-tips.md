@@ -47,4 +47,8 @@ leveler that corrects for medium-term variations in loudness instead of the shor
 https://github.com/audionuma/r128x  
 loudness measurement of files on Mac OSX 
 
-
+## Loop sound (or video)
+```sh
+for i in {1..10}; do printf "file '%s'\n" input.mp3 >> mylist.txt; done
+ffmpeg -f concat -i mylist.txt -c copy output.mp3
+```
