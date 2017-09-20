@@ -16,7 +16,11 @@ ffmpeg -i input.wav -filter:a "volume=10dB" output.wav
 ## normalize audio volume
 see https://superuser.com/questions/323119/how-can-i-normalize-audio-using-ffmpeg  
 
-ffmpeg -i input.wav -filter:a loudnorm output.wav
+several options:  
+- ffmpeg -i input.wav -filter:a loudnorm output.wav
+- ffmpeg-normalize -b tamtam-loop16bit.wav
+- use [Levelator tool](http://www.conversationsnetwork.org/levelator) (see below)
+
 
 
 ## sound normalization info
