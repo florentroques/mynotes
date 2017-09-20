@@ -16,6 +16,10 @@ see more https://trac.ffmpeg.org/wiki/Encode/MP3
 ## detect sound volume
 `ffmpeg -i input.wav -filter:a volumedetect -f null /dev/null`
 
+## change volume  
+set volume to 80%  
+`ffmpeg -i input.mp3 -filter:a "volume=0.8" output.mp3`  
+
 ## normalize audio volume
 see https://superuser.com/questions/323119/how-can-i-normalize-audio-using-ffmpeg  
 ffmpeg ref: https://trac.ffmpeg.org/wiki/AudioVolume  
