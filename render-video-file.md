@@ -12,9 +12,15 @@ scaling: https://trac.ffmpeg.org/wiki/Scaling%20(resizing)%20with%20ffmpeg
 - **scaling to desired size**  
 `ffmpeg -i input.mp4 -c:v libx264 -crf 23 -vf scale=540:960  output.mp4`  
 
-map extension to same extension  
+- map extension to same extension  
 `find -name "*.mp4" -exec ffmpeg -i {} -c:v libx264 -crf 23 -vf scale=540:960  ./output/{}`  
 
-map extension to another extension  
-`find -name "*.mp4" -exec bash -c 'ffmpeg -i "{}" -c:v libx264 -crf 23 -vf scale=540:960  "./output/${0/.mp4}.avi"' {} \;`  
+- map extension to another extension  
+`find -name "*.mp4" -exec bash -c 'ffmpeg -i "{}" -c:v libx264 -crf 23 -vf scale=540:960  "./output/${0/.mp4}.avi"' {} \;`
+
+- convert videos to mp3 audio codec  
+`find -name "*.mp4" -exec ffmpeg -i {} -acodec mp3 ./output/{} \;`
+
 NB: **on mac OS X use gfind** instead of find to access -name property from findutils (brew install findutils)
+
+
