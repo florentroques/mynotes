@@ -6,3 +6,5 @@
 
 On Android > custom font : fontWeight prevents custom foont from displaying
 
+video sound max 44KHz
+
