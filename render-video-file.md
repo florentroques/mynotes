@@ -24,7 +24,7 @@ scaling: https://trac.ffmpeg.org/wiki/Scaling%20(resizing)%20with%20ffmpeg
 - convert videos to 48KHz! (works on iOS and Android!!)  
 `find -name "*.mp4" -exec ffmpeg -i {} -ar 48000 ./output/{} \;`
 
-- convert videos to webm
+- convert videos to webm  
 `ffmpeg -i video.mp4 -vcodec libvpx -acodec libvorbis -cpu-used 5 -threads 8 video.webm`
 
 android doc  
