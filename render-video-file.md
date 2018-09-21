@@ -27,6 +27,9 @@ scaling: https://trac.ffmpeg.org/wiki/Scaling%20(resizing)%20with%20ffmpeg
 - convert videos to webm  
 `ffmpeg -i video.mp4 -vcodec libvpx -acodec libvorbis -cpu-used 5 -threads 8 video.webm`
 
+- convert to grayscale  
+`ffmpeg -i video.mp4 -vf format=gray -pix_fmt yuv420p video-grayscale.mp4`
+
 android doc  
 https://developer.android.com/guide/topics/media/media-formats.html#audio-formats  
 iOS doc  
