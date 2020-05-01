@@ -175,3 +175,7 @@ If issue with error 500 caused by permalinks -> remove .htaccess
 ## Facebook Video embed
 for mobile videos embed, if issue go to the video url with m.facebook instead of www.facebook
 and then find copy the video tag
+
+## Windows 10 : Sortir du mode S
+Pour sortir du mode S, c'est pas intuitif, il faut chercher dans le Microsoft Store le mot "switch"
+Pas la peine taper d'autres mot : "Mode S" "Sortir du mode S" ou autre : cela ne fonctionne pas.
